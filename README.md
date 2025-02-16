@@ -22,8 +22,8 @@ It also exposes API endpoints to fetch data based on time interval and by catego
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Abhilasha8905/express-air-quality.git
-   cd express-air-quality
+   git clone https://github.com/Abhilasha8905/air-quality-charts-api.git
+   cd air-quality-charts-api
    ```
 
 2. Install dependencies:
@@ -62,4 +62,4 @@ It also exposes API endpoints to fetch data based on time interval and by catego
 ## API Documentation
 
 For detailed API documentation, visit the Swagger UI:
-[Express Air Quality Docs](https://express-air-quality.onrender.com/api-docs)
+[Air Quality Charts API Docs](https://air-quality-charts-api.onrender.com/api-docs/)
